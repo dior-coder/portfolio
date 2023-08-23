@@ -326,6 +326,9 @@
     a.footer__row-link {
         font-size: 13px;
     }
+    .slider__item_content {
+         min-width: 500px
+    }
 }
 
 /* Cтили для экрана 460px  */
